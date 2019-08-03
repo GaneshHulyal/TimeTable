@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.magicstar.timetable.SelectDivAct">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@color/white"
+        android:theme="@style/ToolbarTheme"
+        android:id="@+id/ToolbarDayDetail"
+        android:outlineAmbientShadowColor="@color/brown">
+
+    </android.support.v7.widget.Toolbar>
+    <ImageView
+        android:layout_width="160dp"
+        android:layout_height="300dp"
+        android:layout_below="@+id/ToolbarDayDetail"
+        android:id="@+id/imgV"
+        android:src="@drawable/logo11"
+        android:layout_centerHorizontal="true"
+        />
+
+     <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgV"
+        android:layout_centerInParent="true"
+        android:entries="@array/div"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        style="@style/spinner_style"
+        android:id="@+id/spinner"
+        android:textSize="60sp"
+        android:outlineAmbientShadowColor="@color/white"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinner"
+        android:layout_centerHorizontal="true"
+        android:text="Submit"
+        android:id="@+id/btn" />
+
+</RelativeLayout>

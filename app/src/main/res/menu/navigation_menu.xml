@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/vp" android:title="Visit Contineo" android:icon="@drawable/ic_web_black_24dp"/>
+        <item android:id="@+id/std" android:title="Visit Parents Contineo" android:icon="@drawable/ic_web_black_24dp"/>
+    </group>
+    <item android:title="Downloads">
+        <menu>
+            <item android:id="@+id/qp" android:title="Download Lesson Plan" android:icon="@drawable/ic_assignment_black_24dp"/>
+            <item android:id="@+id/sy" android:title="Visit Calender Of Events" android:icon="@drawable/ic_event_note_black_24dp"/>
+        </menu>
+    </item>
+    <group android:checkableBehavior="all">
+    <item android:title="Academics">
+        <menu>
+            <item android:id="@+id/Ask" android:title="Discuss With Your Friends" android:icon="@drawable/ic_markunread_black_24dp"/>
+        </menu>
+    </item>
+    </group>
+    <item android:title="Results">
+        <menu>
+        <item android:id="@+id/Result" android:title="Results"  android:icon="@drawable/ic_assessment_black_24dp"/>
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item android:title="Logout">
+            <menu>
+                <item android:id="@+id/Logout" android:title="Logout" android:icon="@drawable/ic_subdirectory_arrow_left_black_24dp"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>

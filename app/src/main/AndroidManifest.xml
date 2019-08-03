@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.magicstar.timetable">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo11"
+        android:label="My Buddy"
+        android:roundIcon="@drawable/logo11"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:node="replace">
+        <activity android:name=".Resources"></activity>
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".WeekActivity" />
+        <activity android:name=".SelectDivAct" />
+        <activity android:name=".DayDetail" />
+        <activity android:name=".SubjectActivity" />
+        <activity android:name=".SubjectDetails" />
+        <activity android:name=".Results" />
+        <activity android:name=".contineo" />
+        <activity android:name=".ParentContineo" />
+        <activity android:name=".CalenderOfEvents" />
+        <activity android:name=".ChatRoom" />
+        <activity android:name=".Disp_time" />
+        <activity android:name=".Disp_time1" />
+        <activity android:name=".Disp_time2" />
+        <activity android:name=".Disp_time3" />
+        <activity android:name=".DayDetail1" />
+        <activity android:name=".DayDetail2" />
+        <activity android:name=".DayDetail3" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden|adjustPan" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

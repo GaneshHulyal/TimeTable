@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/chat_room"
+        android:enabled="true"
+        android:icon="@drawable/ic_chat_bubble_black_24dp"
+        android:title="Chat Room" />
+
+    <item
+        android:id="@+id/contineo"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="Visit Contineo"/>
+    <item
+        android:id="@+id/lesson"
+        android:enabled="true"
+        android:icon="@drawable/ic_library_books_black_24dp"
+        android:title="Lesson plan" />
+    <item
+        android:id="@+id/share"
+        android:enabled="true"
+        android:icon="@drawable/ic_folder_shared_black_24dp"
+        android:title="Resourses" />
+</menu>

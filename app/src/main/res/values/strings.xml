@@ -1,0 +1,433 @@
+<resources>
+    <string name="app_name">TimeTable Demo</string>
+    <string name="title">Title</string>
+    <string name="fcm_token">FCM Token: %s</string>
+
+    <string name="cont">Visit Contineo</string>
+    <string name="les">Contineo</string>
+    <string name="res">Lesson Plan</string>
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <string-array name="Description">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+    </string-array>
+
+    <string-array name="Monday1">
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+    </string-array>
+
+    <string-array name="Monday2">
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+    </string-array>
+
+    <string-array name="Monday3">
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+    </string-array>
+    <string-array name="Tuesday1">
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+    </string-array>
+
+    <string-array name="Tuesday2">
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+    </string-array>
+
+    <string-array name="Tuesday3">
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+    </string-array>
+    <string-array name="Wednesday1">
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+    </string-array>
+
+    <string-array name="Wednesday2">
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+    </string-array>
+
+    <string-array name="Wednesday3">
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+    </string-array>
+
+    <string name="S">Select Your Division</string>
+    <string name="A">A Division</string>
+    <string name="B">B Division</string>
+    <string name="C">C Division</string>
+    <string name="D">D Division</string>
+
+    <string-array name="div">
+        <item>@string/S</item>
+        <item>@string/A</item>
+        <item>@string/B</item>
+        <item>@string/C</item>
+        <item>@string/D</item>
+    </string-array>
+    <string-array name="Thursday">
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+    </string-array>
+    <string-array name="Thursday1">
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+    </string-array>
+
+    <string-array name="Thursday2">
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+    </string-array>
+
+    <string-array name="Thursday3">
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+    </string-array>
+
+
+    <string-array name="Friday">
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+    </string-array>
+    <string-array name="Friday1">
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+    </string-array>
+
+    <string-array name="Friday2">
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+    </string-array>
+
+    <string-array name="Friday3">
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+        <item>A Div sub</item>
+    </string-array>
+    <string-array name="Saturday1">
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+        <item>B Div sub</item>
+    </string-array>
+
+    <string-array name="Saturday2">
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+        <item>C Div sub</item>
+    </string-array>
+
+    <string-array name="Saturday3">
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+        <item>D Div sub</item>
+    </string-array>
+    >
+
+    <string-array name="time1">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 10:15AM</item>
+        <item>10:15AM - 11:15PM</item>
+        <item>11:15PM - 12:15PM</item>
+        <item>12:15PM - 1:30PM</item>
+        <item>12:15PM - 1:30PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 10:15AM</item>
+        <item>10:15AM - 11:15PM</item>
+        <item>11:15PM - 12:15PM</item>
+        <item>12:15PM - 1:30PM</item>
+        <item>12:15PM - 1:30PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 10:15AM</item>
+        <item>10:15AM - 11:15PM</item>
+        <item>11:15PM - 12:15PM</item>
+        <item>12:15PM - 1:30PM</item>
+        <item>12:15PM - 1:30PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 10:15AM</item>
+        <item>10:15AM - 11:15PM</item>
+        <item>11:15PM - 12:15PM</item>
+        <item>12:15PM - 1:30PM</item>
+        <item>12:15PM - 1:30PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 10:15AM</item>
+        <item>10:15AM - 11:15PM</item>
+        <item>11:15PM - 12:15PM</item>
+        <item>12:15PM - 1:30PM</item>
+        <item>12:15PM - 1:30PM</item>
+    </string-array>
+
+    <string-array name="time6">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 10:15AM</item>
+        <item>10:15AM - 11:15PM</item>
+        <item>11:15PM - 12:15PM</item>
+        <item>12:15PM - 1:30PM</item>
+        <item>12:15PM - 1:30PM</item>
+    </string-array>
+
+
+    <string name="import1">My Device</string>
+
+    <string-array name="Subjects">
+        <item>Applied Statistics (3+1 Credits)</item>
+        <item>Vector and Linear Algebra (4 Credits)</item>
+        <item>Micro-controller: Programming and Interfacing(3+1 Credits)</item>
+        <item>Object Oriented Programming with CPP(3 credits)</item>
+        <item>Database Management System(4 Credits)</item>
+        <item>Operating System Principles and Programming(4+1 Credits)</item>
+        <item>Database Application lab(1.5 Credits)</item>
+        <item>Object Oriented Programming Lab(1.5 Credits)</item>
+    </string-array>
+    <string-array name="VCLA">
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products.(04 Hrs.) <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives.(06Hrs.) <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem(10 Hrs.) </item>
+        <item>CHAPTER4:Matrices and System of linear equations::Introduction to system Linear equation and its solutions, elementry row operations- echelon form, Rank of matrix. Consistency of system of linear equation, solution of system of equation by (i)Direct Method-Guass elimination, Gauss Jordon Method (ii)Iterative Methods-Guass-seidal method. Eigen values and eigen vectors of matrix. Largest Eigne value and the corresponding Eigne Vector by power method, Application Case Study. CHAPTER 5:Vector Space::Vector Spaces and subspaces-vexamples, Linear combinations spanning sets, subspaces, Linear spans Row space of a matrix, Linear depenedence and linear independence. Basis and demensions, applications of matrices, Rank f a matrix. Sums and Direct Sums, Coordinates, Apllication case study. </item>
+        <item>CHAPTER 6: Integral Transform:: (a) Laplase transformation and its applications (b)Forier transforms, Discrete Fourier transforms and its applications</item>
+        <item>1) Grewal B S, Higher Engineering Mathematics, 38ed, Khans Publications, New Delhi, 2001 2)Bali and Iyengar, A TextBook of Enginnering Mathematics,6ed, laxmi Publications(p) Ltd, New Delhi,200</item>
+        <item>Early Transcendental Calculas- James Stewart, Thamson Books, 5e 2007</item>
+    </string-array>
+    <string-array name="AS">
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item>textBooks</item>
+        <item>Extra Stuff</item>
+    </string-array>
+    <string-array name="MC">
+        <item>CHAPTER 1. THE 8051 ARCHITECTURE:: Introduction, 8051 Microcontroller hardware, input/output pins, ports and circuits, External (04Hrs.) CHAPTER2. Assembly Programming:: Introduction, addressing modes, External modes, External data moves, code memory Read only data Moves/Indexed Adderessing Mode, PUSH and POP opcodes, Data exchanges, assembler directives, example programs. Byte level Logical Operations, Bit level Operations, Rotate and swap Operations, Example Programs, Arithematic Operations: Flags Incrementing and Decrementing, Additions Substractions, Multiplications and Divisions, Decimal Arithmatic, Example Programs. the JUMP and CALL Program range, Jumps, Call and Subroutines, Example Programs. (12+8 Hrs.)</item>
+        <item>CHAPTER 3. TIMER/COUNTER and SERIAL PORT PROGRAMMING: C data types and Time delay computation in 8051 Counters and Timers Programming 8051 Timers/counters in different modes basics of serial communications, RS232 standards, 8051 serial port programming. HyperTerminal(Serial Communcation) (12Hrs.) CHAPTER 4. INTERRUPTS PROGRAMMING:: 8051 Interrupts, Programming Timer interrupts, Programming external hardware interrupts, Programming the serial communication Interrupts, Interrupt Priority in the 8051, Interrupt Programming. (4 Hrs.) </item>
+        <item>CHAPTER 5. INTERFACING TO PHERIPHERAL DEVICES:: Interfacing 8051 to LEDs, DIP switches, BCD Decoder display, 7 segment display, Timers, Interfacing 8051 to LCD, Keypad, DAC,ADC,Stepper Motor and DC Motor. (8+12 Hrs.)</item>
+        <item>1) Ayala.K.J, "The 8051 Microcontroller, 3rd, CENGAGE Learning, 2007 Mazidi.M.A, 2) Mazidi.J.G and Mckinlay.R.D, The 8051 Microcontroller and Embedded Systems- using Assembly and C,2ed, PHI 2006/Pearson, 2006</item>
+        <item>Ayala KJ, Gadre D.V., "The 8051 Microcontroller and Embedded Systems using Assembly and C". 1ed. CENGAGE Learning, 2010</item>
+    </string-array>
+    <string-array name="OOPS">
+        <item>CHAPTER N0. 1: INTRODUCTION TO OBJECT ORIENTED PROGRAMMING: Introduction, characteristics of object oriented languages, Programming Basics, arrays, Functions in C++ (parameter passing techniques.)(4 hrs.) 2. CLASSES and OBJECTS:Introduction to Classes and Objects, encapsulation visibility modifiers, constructor and its types, nested classes, String class. UML diagrams to describe classes and relationships. (6 Hrs,), CHAPTER 3: INHERITANCE:: Introduction, types of Inheritance, constructors, Abstract class, Aggregation: classes within classes(6 Hrs.)</item>
+        <item>CHAPTER NO. 4: VIRTUAL FUNCTIONS AND POLYMOPHISM::Virtual functions, Friend6 functions, static functions, The "this" pointer Chapter No. 5: Templates and Exception Handling:Function and class templates. Introduction to exceptions, Throwing an Exception, Try Block, Exception Handler Catching an Exception), Multiple exceptions. Exceptions with arguments Chapter No. 6: Design Patterns: Creational, Structural and Behavioural design patterns.</item>
+        <item>Chapter No. 7: Streams and Files: Stream classes, File I/0 with streams Chapter No. 8:Standard Template Library: container classes: Sequence and Associative Containers</item>
+        <item>1. Robert Lafore, "Object oriented programming in C++, 4h Edition, Pearson education</item>
+        <item>1.Lippman S B, Lajorie J, Moo BE, C++ Primer, 5ed, Addison Wesley, 2013. 2) Herbert Schildt: The Complete Reference C++, 4th Edition, Tata McGraw Hill </item>
+    </string-array>
+    <string-array name="DBMS">
+        <item>Chapter No. 1 Introduction and ER Model: Introduction to DBMS and an example, Data models, schemas and instances, Three- schema architecture, Database languages Using High-Level Conceptual Data Models for Database Design, An Example Database Application, Entity Types, Entity Sets, Attributes and Keys, Relationship types, Relationship Sets. Roles and Structural Constraints, Weak Entity Types, Refining the ER Design, ER Diagrams, Naming Conventions and Design Issues Chapter No. 2 Relational Data Model and Relational Algebra: Relational Model Concepts, Relational Model Constraints and Relational Database Schemas, Update Operations and dealing with constraint violations, Unary Relational Operations SELECT and PROJECT, Binary Relational Operations: CARTES PRODUCT, JOIN, Additional Relational Operations, Relational Database Design Using ER to-Relational Mapping Chapter No. 3 SQL SQL Data Definition and Data Types, Specifying basic constraints in SQL, Schema change statements in SQL Insert, Delete and Update statements in SQL Basic queries SQL JOIN operations, Complex SQL Queries</item>
+        <item>Chapter No. 4 Database Design: Informal Design Guidelines for Relation Schemas; Functional Dependencies, Normal Forms Based on Primary Keys, Boyce-Codd Normal Form Chapter No. 5Introduction Transaction Processing Introduction to Transaction Processing, Transactions and System concepts, Desirable Properties Transactions; Characterizing schedules based on- recoverability, Serializibilty Chapter No. 6 Concurrency Control Techniques: Introduction, Two-phase locking techniques for concurrency control, dealing with dead-lock and starvation, concurrency control based time stamp ordering.</item>
+        <item>Chaptor No. 7 Database Security: Introduction to DB security issues, Discretionary access control, Mandatory access control and role- based access control, SQL Injections, SQL Attacks; Chapter No. 8 Introduction to NOSQL and Columnar database Introduction; Difference between SQL and NoSQL, Scaling of Databases; Applications Columnar database: Introduction; Row-oriented systems; Column-oriented systems; Benefits, An of Columnar Database;</item>
+        <item>1. Elmasri R. and Navathe S., Fundamentals of Database Systems, 7hedition, Pearson Education, 2015 2. ShashankTiwari, Professional NOSQL, 1"Edition Wrox, 2011</item>
+        <item>1) RamakrishnanR and Gehrke J, Database Management Systems 3d edition, McGraw Hill Education, 2007 2) Silberschatz A, Korth H. F and Sudharshan S, Database System Concepts, 6 edition, McGraw Hill Education, 2016</item>
+    </string-array>
+    <string-array name="OS">
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item>textBooks</item>
+        <item>Extra Stuff</item>
+    </string-array>
+    <string-array name="DBMSLAB">
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item>textBooks</item>
+        <item>Extra Stuff</item>
+    </string-array>
+    <string-array name="CPPLAB">
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item><b>CHAPTER1: Vector Algebra::</b>Vector addition, Multiplication(Dot and Cross Products. <b>CHAPTER2: Vector Differentiation::</b>Vector Functions, Vector Differentition, Velocity and Acceleration of a Vector Point Functions, Vector Fields, Gradient and Bidirectional Derivatives. <b>CHAPTER 3:Vector Integration::</b>Line and Surface Integrals, Independent Path and Potential functions, Greens therom, Diverganece of the vector field, Divergence Theorem, curl of vector field, Strokes Theorem</item>
+        <item>textBooks</item>
+        <item>Extra Stuff</item>
+    </string-array>
+    <string-array name="title">
+        <item>Unit 1</item>
+        <item>Unit 2</item>
+        <item>Unit 3</item>
+        <item>Recomonded Books</item>
+        <item>References</item>
+    </string-array>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
