@@ -62,15 +62,11 @@
     </string-array>
 
     <string-array name="Monday">
-        <item>Data Mining and Analytics</item>
-        <item>Computer Network-1</item>
-        <item>Break</item>
-        <item>CN-1 Tut:A1/ML Lab:A2</item>
+        <item>SS Lab A1/Java Lab A2</item>
         <item>Break</item>
         <item>Software Engineering</item>
-        <item>Break</item>
-        <item>Data Mining and Analytics</item>
-        <item>System Software</item>
+        <item>Data Mining and Analysis</item>
+        <item>Computer Networks-1</item>
     </string-array>
 
     <string-array name="Monday1">
@@ -101,13 +97,14 @@
     </string-array>
 
     <string-array name="Tuesday">
-        <item>CN-1 Tut: A2/ML Lab: A1</item>
+        <item>ML Lab A1/CN1 Tut A2</item>
         <item>Break</item>
-        <item>DMA LAB: A1</item>
+        <item>DMA Lab: A1/ML Lab A2</item>
         <item>Break</item>
         <item>Machine Learning</item>
         <item>Break</item>
-        <item>Java Programming</item>
+        <item>System Software</item>
+        <item>Java</item>
     </string-array>
     <string-array name="Tuesday1">
         <item>Mini Project</item>
@@ -136,10 +133,12 @@
     </string-array>
 
     <string-array name="Wednesday">
-        <item>Mini Project</item>
-        <item>Data Mining and Analytics</item>
+        <item>DMA Tut A2/CN1 Tut A1</item>
         <item>Break</item>
         <item>Computer Networks-1</item>
+        <item>Break</item>
+        <item>System Software</item>
+        <item>Data Mining and Analysis</item>
     </string-array>
     <string-array name="Wednesday1">
         <item>Computer Networks-1</item>
@@ -183,12 +182,12 @@
         <item>@string/D</item>
     </string-array>
     <string-array name="Thursday">
+        <item>Mini Project</item>
+        <item>Break</item>
+        <item>Machine Learning</item>
+        <item>Break</item>
+        <item>Data Mining and Analysis</item>
         <item>Computer Networks-1</item>
-        <item>System Software</item>
-        <item>Break</item>
-        <item>DMA LAB: A1</item>
-        <item>Break</item>
-        <item>SS LAB A2/Java LAB A1</item>
     </string-array>
     <string-array name="Thursday1">
         <item>Cn-1 Tut B1/ ML LAB B2</item>
@@ -225,10 +224,9 @@
     <string-array name="Friday">
         <item>Software Engineering</item>
         <item>Break</item>
-        <item>Machine Learning</item>
         <item>System Software</item>
         <item>Break</item>
-        <item>SS LAB: A1/Java LAB: A2</item>
+        <item>SS Lab A2/Java Lab A1</item>
     </string-array>
     <string-array name="Friday1">
         <item>SS LAB B1/ Java LAB B2</item>
@@ -276,14 +274,11 @@
 
 
     <string-array name="timeA1">
-        <item>8:00AM - 9:00AM</item>
-        <item>9:00AM - 10:00AM</item>
-        <item>10:00AM - 10:15AM</item>
-        <item>10:15AM - 12:15PM</item>
+        <item>8:00AM - 11:15AM</item>
         <item>12:15PM - 01:30PM</item>
         <item>01:30PM - 02:30PM</item>
-        <item>2:30PM - 2:45PM</item>
-        <item>02:45PM - 3:45PM</item>
+        <item>2:30PM - 02:45PM</item>
+        <item>02:45PM - 03:45PM</item>
         <item>03:45PM - 04:45PM</item>
     </string-array>
     <string-array name="timeB1">
@@ -312,13 +307,14 @@
     </string-array>
 
     <string-array name="timeA2">
-        <item>8:00AM - 10:00AM</item>
-        <item>10:00AM - 10:15AM</item>
+        <item>08:00AM - 10:00AM</item>
+        <item>10:00AM - 10:15AM</title>
         <item>10:15AM - 12:15PM</item>
         <item>12:15PM - 01:30PM</item>
         <item>01:30PM - 02:30PM</item>
         <item>02:30PM - 02:45PM</item>
         <item>02:45PM - 03:45PM</item>
+        <item>03:45PM - 04:45PM</item>
     </string-array>
     <string-array name="timeB2">
         <item>8:00AM - 11:15AM</item>
@@ -345,10 +341,12 @@
     </string-array>
 
     <string-array name="timeA3">
-        <item>8:00AM - 11:15AM</item>
-        <item>11:15AM - 12:15PM</item>
-        <item>12:15PM - 02:45PM</item>
+        <item>10:15AM - 12:15PM</item>
+        <item>12:15PM - 01:30PM</item>
+        <item>01:30PM - 02:30PM</item>
+        <item>02:30PM - 02:45PM</item>
         <item>02:45PM - 03:45PM</item>
+        <item>03:45PM - 04:45PM</item>
     </string-array>
     <string-array name="timeB3">
         <item>8:00AM - 9:00AM</item>
@@ -377,12 +375,12 @@
     </string-array>
 
     <string-array name="timeA4">
-        <item>8:00AM - 9:00AM</item>
-        <item>9:00AM - 10:00AM</item>
-        <item>10:00AM - 10:15AM</item>
-        <item>10:15AM - 12:15PM</item>
-        <item>12:15PM - 1:30PM</item>
-        <item>01:30PM - 04:45PM</item>
+        <item>8:00AM - 11:15AM</item>
+        <item>11:15AM - 01:30PM</item>
+        <item>01:30PM - 02:30PM</item>
+        <item>02:30PM - 02:45PM</item>
+        <item>02:45PM - 03:45PM</item>
+        <item>03:45PM - 04:45PM</item>
     </string-array>
 
     <string-array name="timeB4">
@@ -415,10 +413,10 @@
     </string-array>
 
     <string-array name="timeA5">
-        <item>8:00AM - 10:00AM</item>
-        <item>10:00AM - 10:15AM</item>
-        <item>10:15AM - 11:15PM</item>
-        <item>11:15PM - 12:15PM</item>
+        <item>08:00AM - 09:00AM</item>
+        <item>09:00AM - 10:00AM</item>
+        <item>10:00AM - 11:15AM</item>
+        <item>11:15AM - 12:15PM</item>
         <item>12:15PM - 01:30PM</item>
         <item>01:30PM - 04:45PM</item>
     </string-array>
